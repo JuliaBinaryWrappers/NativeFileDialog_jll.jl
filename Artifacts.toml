@@ -1,123 +1,123 @@
 [[NativeFileDialog]]
 arch = "aarch64"
-git-tree-sha1 = "bfb2d7eec5efba7e53e0db38a016218fa316203d"
+git-tree-sha1 = "27fe7e7cb79ec03acbc117af5867f5e3bbed6533"
 os = "macos"
 
     [[NativeFileDialog.download]]
-    sha256 = "18cdcf12ab6c5f563bc01d9ac3875b8dd3fa7678bee406dbfe73d5066bdd5beb"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.aarch64-apple-darwin.tar.gz"
+    sha256 = "da5a8c21c07b2fd0c688554952fbf980638287ce596b5e86268f0db9b1f66db4"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.aarch64-apple-darwin.tar.gz"
 [[NativeFileDialog]]
 arch = "aarch64"
-git-tree-sha1 = "cdcc38370057368ec71c0d7883cbf78835bb3104"
+git-tree-sha1 = "64379fd574967fb7f362406e600ac9e05f48da5e"
 libc = "glibc"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "df8a2770db81584ad9885af9fa9faa1394050e35826d6345ae8d651b86750aef"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.aarch64-linux-gnu.tar.gz"
+    sha256 = "c3e0fe74b5081382b353f5dfe695b54f7a3360739151068de1c0e2cb3eb9fade"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.aarch64-linux-gnu.tar.gz"
 [[NativeFileDialog]]
 arch = "aarch64"
-git-tree-sha1 = "3dd55867cb6a8a5498e9df00ecc1f425854d1c8e"
+git-tree-sha1 = "441a03ef9fe2a9a36843ce82311d87ccdf14e913"
 libc = "musl"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "c72aca0d76bfd1d5d585b5a36e42125be8930e5ef70dcadf5f0967d2e798c917"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.aarch64-linux-musl.tar.gz"
+    sha256 = "b804b25584db98e9ca08b78b272396ae4128524d88298dcd7646515f1bf33339"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.aarch64-linux-musl.tar.gz"
 [[NativeFileDialog]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "01b2a82aa2ac24322af2c40aa0c5ce8d98ccd3da"
+git-tree-sha1 = "37c6f84f5ed9ee9fd04239c82e7348eaf11b6eb9"
 libc = "glibc"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "6f4769a106c1894d9490eb08f8f33b1318452b11d1fd4a4ab69a851ec837e638"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "aa73c39431704d06940650c53975e71ecc359a2bb9dd8a1b51428ef50e8c43c2"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.armv7l-linux-gnueabihf.tar.gz"
 [[NativeFileDialog]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "1a31a72b330d2b333e9dc46aad5385fde805a6b5"
+git-tree-sha1 = "ff3ae76c8ffeeec470530e55c34d058ca612b7b0"
 libc = "musl"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "64c906a8ce4ce14d591b80577efaf719368b16fa971e9dd85dae0652c52365c4"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "695a4744e2db1f96c1037ebe4e0636e8ef20950f93bbb57da08ec728d10c2e7e"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.armv7l-linux-musleabihf.tar.gz"
 [[NativeFileDialog]]
 arch = "i686"
-git-tree-sha1 = "634da1a0544fc77e0dc1dd018c9c7f8e78d0cd96"
+git-tree-sha1 = "6b11e66992dea97bb7cc74764c847cee660050b4"
 libc = "glibc"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "8d1ad1ff19df8a559b01533f7a95c0f3a2ecaaa5f9d00563f1ae98b093ea58a8"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.i686-linux-gnu.tar.gz"
+    sha256 = "ab6e95cde9119ba5ac7d95ba6ea562aacb5579b6e58a347d6796f438c4b491b9"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.i686-linux-gnu.tar.gz"
 [[NativeFileDialog]]
 arch = "i686"
-git-tree-sha1 = "5afa038ee6ffe0de6cc1b78573781aa4ecc47c26"
+git-tree-sha1 = "b2fc5293211024e1170e3177e6549e5d7895fad0"
 libc = "musl"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "d68e0065c96862c415eb4312103a39eb386a5729f5dfe67d39ab35d24bdb03f5"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.i686-linux-musl.tar.gz"
+    sha256 = "d94ac2672dab2424031817fe54b7a5352de5f53fe51039cbe5d46740bced703a"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.i686-linux-musl.tar.gz"
 [[NativeFileDialog]]
 arch = "i686"
-git-tree-sha1 = "4d4f3f81d553409117576886aad4ba51f5530a7d"
+git-tree-sha1 = "5bf4b8c49c337ac231225e48dc00c1859407cbbe"
 os = "windows"
 
     [[NativeFileDialog.download]]
-    sha256 = "27a4c5268db2f62ffd6fa007bbe6bdcd9e56b46a4d020ee0384330766434d35c"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.i686-w64-mingw32.tar.gz"
+    sha256 = "10b9ec2619f23decb0e8ed18c024992be6ab03822f7ac3c1481372b9492b6d34"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.i686-w64-mingw32.tar.gz"
 [[NativeFileDialog]]
 arch = "powerpc64le"
-git-tree-sha1 = "ffa7adcf75ec3a3064b4b8cc21f3e45191e5e02e"
+git-tree-sha1 = "4dfce063894641b7247b8bc0370cc66d8085cbf4"
 libc = "glibc"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "fb46140b0e5a85ffe5688c2c60eb015e2b4ebe7c5cfc67b946a313258d422a3f"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "51626f15eba3d67668b6d21931f16af3cc6c5f84dda4bc9295088217e91ed923"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.powerpc64le-linux-gnu.tar.gz"
 [[NativeFileDialog]]
 arch = "x86_64"
-git-tree-sha1 = "ba233255c9fed065978a3391eef9397f3f462317"
+git-tree-sha1 = "22c18ce093fa64825c64583474fdeda53275147f"
 os = "macos"
 
     [[NativeFileDialog.download]]
-    sha256 = "6d711d9c17b8a0e5b696d639dec9feadbf1c211aaccd6665c2ad2dfcca3ca749"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.x86_64-apple-darwin.tar.gz"
+    sha256 = "9a87544e84102f01f1bc714f264911d576dedff18091e88db0da604cd2a6d199"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.x86_64-apple-darwin.tar.gz"
 [[NativeFileDialog]]
 arch = "x86_64"
-git-tree-sha1 = "e746c352501cd7e8d019675d69ed0e510c1c9236"
+git-tree-sha1 = "95ad1d3e99e54a81eeae4212200a3731aeb36696"
 libc = "glibc"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "844415f0f66b597a656cea3430fbb78e9d2112699612d8eb79b492eb8b5ddc54"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.x86_64-linux-gnu.tar.gz"
+    sha256 = "e7c5d4d5765caec1c38b3ac495db0cd4de4d2919db9849f74658f4e97e7d5eae"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.x86_64-linux-gnu.tar.gz"
 [[NativeFileDialog]]
 arch = "x86_64"
-git-tree-sha1 = "91192b23202d676fd11b6c4f99ca9465310a1b95"
+git-tree-sha1 = "8e1018c6d89600020d2ce1f1a8d3e38cc3426a70"
 libc = "musl"
 os = "linux"
 
     [[NativeFileDialog.download]]
-    sha256 = "2a9cc2059abe935514ec6314ce8de1942bfb1ec0641e6c8b86d122f745262926"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.x86_64-linux-musl.tar.gz"
+    sha256 = "ab609573c9ad341b42ccb9513865eb8b2d4ff276fe8e93665700579002dc5b82"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.x86_64-linux-musl.tar.gz"
 [[NativeFileDialog]]
 arch = "x86_64"
-git-tree-sha1 = "c1d3eae7e01277489074136dae1d6bb248fdac6e"
+git-tree-sha1 = "d38ad9ae744e8a16c50e9a7cb30ed60892ae5ef5"
 os = "freebsd"
 
     [[NativeFileDialog.download]]
-    sha256 = "201f3e177ffa8640845dcc057c824b8fdb4844e05ead7ab4491f91fed6cca20e"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "d9c7f549d3278a805e04be86d47eb11be54ceb824485c73c6df819877cfc7a66"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.x86_64-unknown-freebsd.tar.gz"
 [[NativeFileDialog]]
 arch = "x86_64"
-git-tree-sha1 = "e757d42049ba78531eff7b6b01ee149d5fa1ec65"
+git-tree-sha1 = "a012dd09dba931c6185556ab40876ec4506bd7db"
 os = "windows"
 
     [[NativeFileDialog.download]]
-    sha256 = "99df86ed469f4fd10b132c2e4d61f9185707be0856952e9f22f688782c479219"
-    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+0/NativeFileDialog.v1.1.6.x86_64-w64-mingw32.tar.gz"
+    sha256 = "577e3003ca6bb138c90c81de617fd11ec2392d36518a763b3a1eb7dd889794a1"
+    url = "https://github.com/JuliaBinaryWrappers/NativeFileDialog_jll.jl/releases/download/NativeFileDialog-v1.1.6+1/NativeFileDialog.v1.1.6.x86_64-w64-mingw32.tar.gz"
